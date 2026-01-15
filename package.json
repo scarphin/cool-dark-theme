@@ -1,0 +1,37 @@
+{
+	"name": "cool-dark-theme",
+	"displayName": "Cool Dark VSCode Theme",
+	"description": "A mostly dark theme with semantic highlighting.",
+	"icon": "images/logo.png",
+	"version": "26.1.0",
+	"publisher": "scarphin",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/scarphin/cool-dark-theme"
+	},
+	"engines": {
+		"vscode": "^1.16.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"dark theme",
+		"light theme"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Cool Dark Theme - Vibe Gray",
+				"uiTheme": "vs-dark",
+				"path": "./themes/vibe-gray-theme.json"
+			},
+			{
+				"label": "Cool Dark Theme - Dark Environ",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-environ-theme.json"
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="260" viewBox="0 0 260 260" role="img" aria-labelledby="title desc">
+  <title id="title">Cool symbol</title>
+  <desc id="desc">Blue gradient circle with white mark, symbol-only logo</desc>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#64b5ff" />
+      <stop offset="60%" stop-color="#1e88ff" />
+      <stop offset="100%" stop-color="#0b61ff" />
+    </linearGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#063062" flood-opacity="0.22" />
+    </filter>
+  </defs>
+
+  <!-- centered symbol -->
+  <g transform="translate(130,130)">
+    <circle cx="0" cy="0" r="80" fill="url(#g)" filter="url(#shadow)" />
+    <g transform="translate(-18,-8) scale(1.2)">
+      <path d="M6 6c0-12 14-28 36-28 20 0 34 12 34 28 0 20-18 36-42 36-20 0-28-12-28-36z" fill="#fff" opacity="0.95"/>
+    </g>
+  </g>
+
+</svg>
