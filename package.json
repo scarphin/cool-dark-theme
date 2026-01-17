@@ -40,6 +40,16 @@
 				"label": "Cool Dark Theme - Environ Gray",
 				"uiTheme": "vs-dark",
 				"path": "./themes/environ-gray-theme.json"
+			},
+			{
+				"label": "Cool Dark Theme - Semantic Gray",
+				"uiTheme": "vs-dark",
+				"path": "./themes/semantic-gray-theme.json"
+			},
+			{
+				"label": "Cool Dark Theme - Semantic Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/semantic-dark-theme.json"
 			}
 		]
 	}
