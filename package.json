@@ -30,6 +30,16 @@
 				"label": "Cool Dark Theme - Environ Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/environ-dark-theme.json"
+			},
+			{
+				"label": "Cool Dark Theme - Vibe Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/vibe-dark-theme.json"
+			},
+			{
+				"label": "Cool Dark Theme - Environ Gray",
+				"uiTheme": "vs-dark",
+				"path": "./themes/environ-gray-theme.json"
 			}
 		]
 	}
