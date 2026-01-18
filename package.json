@@ -3,7 +3,7 @@
 	"displayName": "Cool Dark VSCode Theme",
 	"description": "A mostly dark theme with semantic highlighting.",
 	"icon": "images/logo.png",
-	"version": "26.1.1",
+	"version": "26.1.2",
 	"publisher": "scarphin",
 	"repository": {
 		"type": "git",
