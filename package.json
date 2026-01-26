@@ -1,9 +1,9 @@
 {
 	"name": "cool-dark-theme",
-	"displayName": "Cool Dark VSCode Theme",
-	"description": "A mostly dark theme with semantic highlighting.",
+	"displayName": "Cool Dark VSCode Themes",
+	"description": "Mostly dark themes with semantic highlighting.",
 	"icon": "images/logo.png",
-	"version": "26.1.2",
+	"version": "26.1.3",
 	"publisher": "scarphin",
 	"repository": {
 		"type": "git",
@@ -50,6 +50,16 @@
 				"label": "Cool Dark Theme - Semantic Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/semantic-dark-theme.json"
+			},
+			{
+				"label": "Cool Dark Theme - Hoisted Gray",
+				"uiTheme": "vs-dark",
+				"path": "./themes/hoisted-gray-theme.json"
+			},
+			{
+				"label": "Cool Dark Theme - Hoisted Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/hoisted-dark-theme.json"
 			}
 		]
 	}
