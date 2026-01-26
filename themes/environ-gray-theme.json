@@ -1,5 +1,5 @@
 {
-"name": "Environ Gray",
+	"name": "Environ Gray",
 	"type": "dark",
 	"include": "./gray-base.json",
 	"semanticHighlighting": true,
